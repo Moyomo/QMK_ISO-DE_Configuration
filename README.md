@@ -7,7 +7,7 @@ For more informations on how to customize and flash the keyboard visit their [we
 
 ---
 
-Here's a visual representation of the different layers
+###Here's a visual representation of the different layers
 
 **default layer**
 ```
@@ -40,12 +40,12 @@ Here's a visual representation of the different layers
 ```
 the 6 RGB keys are for controlling the PCB backlighting. Their functionality is arranged like the arrow keys (W,A,S,D)
 From top left to bottom right:
--RGB toggle (On/Off)
--Increase brightness
--Toggle RGB mode
--Decrease effect speed
--Decrease brightness
--Decrease effect speed
+- RGB toggle (On/Off)
+- Increase brightness
+- Toggle RGB mode
+- Decrease effect speed
+- Decrease brightness
+- Decrease effect speed
 
 **shift layer**
 ```
