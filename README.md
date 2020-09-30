@@ -29,23 +29,25 @@ For more informations on how to customize and flash the keyboard visit their [we
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
 │   │F1 │F2 │F3 │F4 │F5 │F6 │F7 │F8 │F9 │F10│F11│F12│       │
 ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
-│     │RGB│RGB│RGB│   │   │   │   │   │   │   │F6 │Ins│     │
+│     │RGB│RGB│RGB│BL+│   │   │   │   │   │   │F6 │Ins│     │
 ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
-│      │RGB│RGB│RGB│   │   │   │   │   │Mut│Ply│F13│F14│    │
+│      │RGB│RGB│RGB│BL-│   │   │   │   │Mut│Ply│F13│F14│    │
 ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
 │    │   │   │   │   │   │   │   │   │   │Prv│Nxt│   Shift  │
 ├────┼───┴┬──┴─┬─┴───┴───┴───┴───┴───┴──┬┴───┼───┴┬────┬────┤
 │    │    │    │                        │    │    │(Fn)│    │
 └────┴────┴────┴────────────────────────┴────┴────┴────┴────┘
 ```
-the 6 RGB keys are for controlling the PCB backlighting. Their functionality is arranged like the arrow keys (W,A,S,D).  
+the RGB/Backlight keys are for controlling the PCB underglow and backlighting. Their functionality is arranged like the arrow keys (W,A,S,D).  
 From top left to bottom right:
 - RGB toggle (On/Off)
 - Increase brightness
 - Toggle RGB mode
+- Increase backlight level
 - Decrease effect speed
 - Decrease brightness
 - Decrease effect speed
+- Decrease backlight level
 
 **shift layer**
 ```
