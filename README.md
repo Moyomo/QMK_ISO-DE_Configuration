@@ -46,7 +46,7 @@ From top left to bottom right:
 - Increase backlight level
 - Decrease effect speed
 - Decrease brightness
-- Decrease effect speed
+- Increase effect speed
 - Decrease backlight level
 
 **shift layer**
